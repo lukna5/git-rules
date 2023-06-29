@@ -13,3 +13,6 @@
 - `git diff <from_commit> [<to_commit>]` — вывести разницу между двумя коммитами
 - `git diff --name-status <from_commit> [<to_commit>]` — список измененных файлов
 - `git difftool <from_commit> [<to_commit>]` - вывести разницу с помощью difftool из настроек
+
+
+
